@@ -34,7 +34,7 @@ case '*':
    } while (continueCalc.equalsIgnoreCase("yes"));
  
 System.out.println("Program ended.");
-        scanner.close();
+
 }
 }
 
